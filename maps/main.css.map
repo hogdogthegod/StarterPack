@@ -1,0 +1,1 @@
+{"version":3,"sources":["commonComponents.scss"],"names":[],"mappings":"AAAA;EACE,uBAAsB;EACtB,aAAW,EACZ","file":"../scss/main.css","sourcesContent":["body {\r\n  background-color: pink;\r\n  color:white;\r\n}"]}
